@@ -1,4 +1,4 @@
-# Hi 😃, I am Wilfred
+# Hi ✨, Its Wilfred
 - Android developer
 - Kotlin
 - java
@@ -7,6 +7,8 @@
 -
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/wilfredgicharu/)
+  -: twitter: [twitter](https://twitter.com/WilfredGicharu)
+ 
  
  [![Wilfred's github stats](https://github-readme-stats.vercel.app/api?username=WilfredGicharu&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
  
